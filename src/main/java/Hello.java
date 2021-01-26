@@ -1,5 +1,12 @@
 public class Hello {
 
-    // testing my awesome hello
-    }
+    public static void main(String[] args) {
+        System.out.println("Hello");
+        System.out.println("B21 future SDET");
 
+
+
+        // testing my awesome hello
+
+    }
+}
